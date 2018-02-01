@@ -20,5 +20,4 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
-    
+    We might want to do that if we are introducing a new change, adding a new feature or contributing to someone elses work. Making branches makes it safer for us as the master branch will not be affected even if the new branch has some defects but it might get confusing if there are too many branches.   
